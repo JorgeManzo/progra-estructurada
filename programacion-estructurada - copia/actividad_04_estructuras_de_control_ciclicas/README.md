@@ -1,4 +1,4 @@
-# Actividad: Estructura de control cíclicas
+# Actividad: Estructura de control cíclicas.
 ## Descripción
 Programas que ejecutan estructura de control cíclicas (while, for, do-while) simulando menús y repasando las estructuras de cada ciclo.
 ## Temas aplicados
