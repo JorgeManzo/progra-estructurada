@@ -1,4 +1,4 @@
-# Actividad: Estructura de control condicionales
+# Actividad: Estructura de control condicionales.
 ## Descripción
 Programas que ejecutan estructuras de control condicionales, y como estas se relacionan con los operadores.
 ## Temas aplicados
