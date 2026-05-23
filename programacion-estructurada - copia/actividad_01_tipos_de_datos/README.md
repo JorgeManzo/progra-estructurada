@@ -1,4 +1,4 @@
-# Actividad: Tipos de datos
+# Actividad: Tipos de datos.
 ## Descripción
 Programa que muestra los diferentes tipos de datos existentes en c y su dirección de memoria.
 ## Temas aplicados
