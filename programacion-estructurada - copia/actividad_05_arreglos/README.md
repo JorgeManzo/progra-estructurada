@@ -1,4 +1,4 @@
-# Actividad: Arreglos
+# Actividad: Arreglos.
 ## Descripción
 Esta actividad hace refrencia al uso de arreglos para representar nombres completos, listas de nombres y como recorrer estas listas.
 ## Temas aplicados
