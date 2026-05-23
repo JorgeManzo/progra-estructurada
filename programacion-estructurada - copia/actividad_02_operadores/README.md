@@ -1,4 +1,4 @@
-# Actividad: Operadores artiméticos
+# Actividad: Operadores artiméticos.
 ## Descripción
 Programa que muestra el funcionamientos de los operadores aritméticos.
 ## Temas aplicados
